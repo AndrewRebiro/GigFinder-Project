@@ -1,4 +1,4 @@
-# GigFinder-Project
+# GigFinder-Project(LINKS WILL BE ADDED AND ARE INVALID/CANNOT OPEN FOR NOW..)
 📱 About GigFinder
 GigFinder addresses the challenge of connecting Africa's informal workforce (83% in Kenya alone) to sustainable income opportunities. Our platform bridges the gap between gig workers and employers through localized features including mobile money integration, multi-language support, and offline capability.
 🎯 Mission
